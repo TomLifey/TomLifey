@@ -23,7 +23,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mostfakhaled/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Khalid-0A66C2?style=for-the-badge&logo=data:image/svg+xml;utf8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2024%2024'%20fill%3D'white'%3E%3Cpath%20d%3D'M19%203a2%202%200%200%201%202%202v14a2%202%200%200%201-2%202H5a2%202%200%200%201-2-2V5a2%202%200%200%201%202-2h14m-.5%2015.5v-5.3a3.26%203.26%200%200%200-3.26-3.26c-.85%200-1.84.52-2.28%201.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4%201.39-1.4a1.4%201.4%200%200%201%201.4%201.4v4.93h2.75M6.88%208.56a1.68%201.68%200%200%200%201.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69%201.69%200%200%200-1.69%201.69c0%20.93.76%201.68%201.69%201.68m1.39%209.94v-8.37H5.5v8.37h2.77z'%2F%3E%3C%2Fsvg%3E" alt="LinkedIn: Mostafa Khalid" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Khalid-0A66C2?style=for-the-badge&logo=data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22white%22%3E%3Cpath%20d%3D%22M19%203H5c-1.1%200-2%20.9-2%202v14c0%201.1.9%202%202%202h14c1.1%200%202-.9%202-2V5c0-1.1-.9-2-2-2zM9%2017H6.5v-7H9v7zM7.7%208.7c-.8%200-1.4-.6-1.4-1.4s.6-1.4%201.4-1.4%201.4.6%201.4%201.4-.6%201.4-1.4%201.4zM18%2017h-2.5v-3.8c0-1-.4-1.7-1.3-1.7-.7%200-1.1.5-1.3%201-.1.2-.1.4-.1.7V17h-2.5v-7h2.4v1c.3-.5%201-1.2%202.3-1.2%201.7%200%203%201.1%203%203.5V17z%22%2F%3E%3C%2Fsvg%3E" alt="LinkedIn: Mostafa Khalid" />
 </a>
 <br/>
 <a href="https://discord.com/users" target="_blank">
@@ -81,29 +81,55 @@ int	main(void)
 
 **Core Languages**
 <br/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</a>
+<a href="https://en.cppreference.com/w/cpp" target="_blank">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</a>
+<a href="https://www.gnu.org/software/bash/manual/" target="_blank">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</a>
 
 <br/><br/>
 
 **Systems & Workflow**
 <br/>
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GNU_Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" />
+<a href="https://wiki.archlinux.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+</a>
+<a href="https://linuxmint.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+</a>
+<a href="https://neovim.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</a>
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://www.gnu.org/software/make/manual/" target="_blank">
+  <img src="https://img.shields.io/badge/GNU_Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" />
+</a>
 
 <br/><br/>
 
 **Data & Analytics**
 <br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<a href="https://pandas.pydata.org/docs/" target="_blank">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</a>
+<a href="https://numpy.org/doc/" target="_blank">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</a>
 
 </div>
 

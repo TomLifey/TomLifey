@@ -23,7 +23,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mostfakhaled/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Mostafa Khalid" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Khalid-0A66C2?style=for-the-badge&logo=data:image/svg+xml;utf8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2024%2024'%20fill%3D'white'%3E%3Cpath%20d%3D'M19%203a2%202%200%200%201%202%202v14a2%202%200%200%201-2%202H5a2%202%200%200%201-2-2V5a2%202%200%200%201%202-2h14m-.5%2015.5v-5.3a3.26%203.26%200%200%200-3.26-3.26c-.85%200-1.84.52-2.28%201.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4%201.39-1.4a1.4%201.4%200%200%201%201.4%201.4v4.93h2.75M6.88%208.56a1.68%201.68%200%200%200%201.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69%201.69%200%200%200-1.69%201.69c0%20.93.76%201.68%201.69%201.68m1.39%209.94v-8.37H5.5v8.37h2.77z'%2F%3E%3C%2Fsvg%3E" alt="LinkedIn: Mostafa Khalid" />
 </a>
 <br/>
 <a href="https://discord.com/users" target="_blank">

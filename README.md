@@ -1,41 +1,74 @@
 <div align="center">
 
+  <!-- Top Dynamic Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=header" width="100%" alt="Header Wave" />
+
   <!-- Animated Name Switcher: TomLifey <-> Mostafa Khalid -->
   <a href="https://github.com/TomLifey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=TomLifey;Mostafa+Khalid" alt="TomLifey | Mostafa Khalid" />
-  </a>
-
-  <!-- Animated Subtitle -->
-  <a href="https://github.com/TomLifey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=550&height=35&lines=%3E_+Building+From+First+Principles;%3E_+C+%7C+C%2B%2B+%7C+Python+%7C+Linux;%3E_+42+Core+%26+Software+Engineering" alt="Subtitle Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2400&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=TomLifey;Mostafa+Khalid" alt="TomLifey | Mostafa Khalid" />
   </a>
 
   <br/>
 
-  <!-- Social & Network Badges (LinkedIn, Discord, 42 Intra) -->
-  <p>
-    <a href="https://www.linkedin.com/in/mostfakhaled/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://discord.com/users" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-TomLifey-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: TomLifey" />
-    </a>
-    <a href="https://profile.intra.42.fr/users/mabutair" target="_blank">
-      <img src="https://img.shields.io/badge/42_Intra-mabutair-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Intra: mabutair" />
-    </a>
-  </p>
+  <!-- Animated Terminal Tagline -->
+  <a href="https://github.com/TomLifey">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=580&height=35&lines=%3E_+Software+Engineering+%26+42+Core+Student;%3E_+Low-Level+C%2FC%2B%2B+%7C+Python+%7C+Linux+Systems;%3E_+Building+Software+From+First+Principles" alt="Terminal Tagline" />
+  </a>
 
-  <hr/>
+  <br/>
 
-  <!-- Tech Stack & Tools -->
-  <h3>⚡ Arsenal & Stack</h3>
+  <!-- Live Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=TomLifey&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 
-  <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    <br/>
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-    <img src="
+  <br/><br/>
+
+  <!-- Vertically Stacked Identity & Network Badges -->
+  <a href="https://www.linkedin.com/in/mostfakhaled/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Khalid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Mostafa Khalid" />
+  </a>
+  <br/>
+  <a href="https://discord.com/users" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-TomLifey-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: TomLifey" />
+  </a>
+  <br/>
+  <a href="https://profile.intra.42.fr/users/mabutair" target="_blank">
+    <img src="https://img.shields.io/badge/42_Intra-mabutair-161B22?style=for-the-badge&logo=42&logoColor=white" alt="42 Intra: mabutair" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+### `>_ whoami`
+
+```c
+#include <stdbool.h>
+
+typedef struct s_engineer
+{
+	char	*name;
+	char	*handle;
+	char	*intra;
+	char	*discord;
+	char	*os;
+	char	*toolchain;
+	char	*focus[3];
+	bool	first_principles;
+}	t_engineer;
+
+int	main(void)
+{
+	t_engineer	tommy = {
+		.name             = "Mostafa Khalid",
+		.handle           = "TomLifey",
+		.intra            = "mabutair",
+		.discord          = "TomLifey",
+		.os               = "Arch Linux / Linux Mint (XFCE)",
+		.toolchain        = "Neovim + gcc/g++ + Make + Norminette",
+		.focus            = {"Systems Programming", "Algorithms", "Data & AI"},
+		.first_principles = true
+	};
+	return (0);
+}

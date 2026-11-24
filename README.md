@@ -12,27 +12,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=580&height=35&lines=%3E_+Software+Engineering+%26+42+Core+Student;%3E_+Low-Level+C%2FC%2B%2B+%7C+Python+%7C+Linux+Systems;%3E_+Building+Software+From+First+Principles" alt="Terminal Tagline" />
 </a>
 
-<br/>
-
-<p>
-  <em>Systems-minded developer crafting memory-safe C/C++ software, efficient algorithms, and data pipelines on Linux.</em>
-</p>
+<h4><strong>Systems-minded developer crafting memory-safe C/C++ software, efficient algorithms, and data pipelines on Linux.</strong></h4>
 
 <img src="https://komarev.com/ghpvc/?username=TomLifey&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/mostfakhaled/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Khalid-0A66C2?style=for-the-badge&logo=data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2024%2024%22%20fill%3D%22white%22%3E%3Cpath%20d%3D%22M19%203H5c-1.1%200-2%20.9-2%202v14c0%201.1.9%202%202%202h14c1.1%200%202-.9%202-2V5c0-1.1-.9-2-2-2zM9%2017H6.5v-7H9v7zM7.7%208.7c-.8%200-1.4-.6-1.4-1.4s.6-1.4%201.4-1.4%201.4.6%201.4%201.4-.6%201.4-1.4%201.4zM18%2017h-2.5v-3.8c0-1-.4-1.7-1.3-1.7-.7%200-1.1.5-1.3%201-.1.2-.1.4-.1.7V17h-2.5v-7h2.4v1c.3-.5%201-1.2%202.3-1.2%201.7%200%203%201.1%203%203.5V17z%22%2F%3E%3C%2Fsvg%3E" alt="LinkedIn: Mostafa Khalid" />
-</a>
-<br/>
-<a href="https://discord.com/users" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-TomLifey-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: TomLifey" />
-</a>
-<br/>
-<a href="https://profile.intra.42.fr/users/mabutair" target="_blank">
-  <img src="https://img.shields.io/badge/42_Intra-mabutair-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Intra: mabutair" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/mostfakhaled/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Khalid-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02Ljk0IDVhMiAyIDAgMSAxLTQtLjAwMiAyIDIgMCAwIDEgNCAuMDAyek03IDguNDhIM1YyMWg0VjguNDh6bTYuMzIgMEg5LjM0VjIxaDMuOTR2LTYuNTdjMC0zLjY2IDQuNzctNCA0Ljc3IDBWMjFIMjJ2LTcuOTNjMC02LjE3LTcuMDYtNS45NC04LjcyLTIuOTFsLjA0LTEuNjh6Ii8%2BPC9zdmc%2B" alt="LinkedIn: Mostafa Khalid" />
+  </a>
+  <a href="https://discord.com/users" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-TomLifey-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: TomLifey" />
+  </a>
+  <a href="https://profile.intra.42.fr/users/mabutair" target="_blank">
+    <img src="https://img.shields.io/badge/42_Intra-mabutair-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Intra: mabutair" />
+  </a>
+</p>
 
 </div>
 
